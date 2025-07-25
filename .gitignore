@@ -1,0 +1,7 @@
+# Diretórios gerados automaticamente
+dist/
+node_modules/
+
+# Arquivos temporários/sistema
+*.log
+.DS_Store
